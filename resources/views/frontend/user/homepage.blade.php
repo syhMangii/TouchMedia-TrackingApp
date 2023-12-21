@@ -38,7 +38,7 @@ https://templatemo.com/tm-590-topic-listing
                 <div class="container">
                     <a class="navbar-brand" href="index.html">
                     <img src="images/logo TM.png" alt="" class="custom-image">
-                        <span>TouchMedia</span>
+                        <span>TouchMedia Computer Tracking System</span>
                     </a>
 
                     <div class="d-lg-none ms-auto me-4">
